@@ -1,5 +1,6 @@
 # Fredo Cyber Analyst
 Use this tool only on systems you own or have explicit permission to test. Unauthorized use is illegal.
+
 Fredo Cyber Analyst is a lightweight desktop toolkit for quick red-team recon and simple blue-team follow-up. 
 The app runs RustScan for port discovery and, when the target is a domain, OWASP Amass for subdomain enumeration.
 
